@@ -13,7 +13,11 @@ body{
   margin-left: 25rem;
   margin-right: 10rem;
 }
-
+.head-title {
+  font-size: xx-large;
+  color: orange;
+  margin-top: 5rem;
+}
 .move-icon{
   width: 120px;
   height: 120px;
